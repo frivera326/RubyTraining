@@ -1,0 +1,13 @@
+Code Blocks
+
+1) What is a code block= A block consists of chunks of code. You assign a name to a block. The code in the block is always enclosed within braces ({}). A block is always invoked from a function with the same name as that of the block. This means that if you have a block with the name test, then you use the function test to invoke this block. You invoke a block by using the yield statement.
+
+2) Find= Allows us to find objects inside a data set. (Find/detect, find_all/select, any?, all?, delete_if)
+
+3) Merge= Used for merging hashes together.
+
+4) Collect/map= Works with Arrays, hashes, ranges. It iterates thru each item and does whatever we tell it to do and returns a new array. 
+
+5) Sort= Provides a camparison 
+
+6) Inject= An accumulator of values
