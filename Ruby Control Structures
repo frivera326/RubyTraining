@@ -1,0 +1,12 @@
+Ruby Control Structures
+
+1) Conditionals (elsif)= The elsif (note that it's elsif and not elseif) and else blocks give you further control of your scripts by providing the option to accommodate additional tests. The elsif and else blocks are considered only if the if test is false. You can have any number of elsif blocks but only one if and one else block.
+
+2) Conditiionals (unless)= The unless-expression is the opposite of the if-expression, the code-block it contains will only be executed if the test expression is false.
+
+3) Loops= Loops in Ruby are used to execute the same block of code a specified number of times.
+
+4) Iterators= Iterators are nothing but methods supported by collections. Objects that store a group of data members are called collections. In Ruby, arrays and hashes can be termed collections.
+
+
+
